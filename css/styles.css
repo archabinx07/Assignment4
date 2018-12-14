@@ -206,7 +206,6 @@ header ul li a:hover {
     /* background: white; */
     height: 400px;
     width: 60%;
-
 }
 
 .main .video-overlay {
@@ -272,7 +271,7 @@ video {
     font-size: 4em;
     margin-top: 0;
     font-weight: 800;
-    color: rgb(255, 255, 255);
+    color: rgb(88, 88, 88);
     font-family: 'Ruslan Display', cursive;
 }
 
@@ -325,7 +324,7 @@ textarea {
     font-size: 4em;
     margin-top: 0;
     font-weight: 800;
-    color: rgb(255, 255, 255);
+    color: rgb(88, 88, 88);
     font-family: 'Ruslan Display', cursive;
 }
 
